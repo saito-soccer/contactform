@@ -1,0 +1,44 @@
+h1 {
+    background-color: lightgray;
+    border-left: 3px solid red;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.confirm{
+    border: 1px solid lightgray;
+    width: 450px;
+    border-radius: 10px;
+    background-color: #dfdfdf;
+    margin: 0 auto;
+    padding: 20px 20px 60px 20px;
+}
+
+
+.box1{
+    float: left;
+    margin-right: 10px;
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+    color: white;
+    background-color: #bfbfbf;
+}
+
+.box2{
+    float: left;
+    margin-right: 10px;
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    border-radius: 5px;
+    border-bottom: 2px solid #E08600;
+    background-color: darkorange;
+    color: white;
+}
